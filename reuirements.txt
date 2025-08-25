@@ -1,0 +1,54 @@
+flask  (pip install flask requests)
+requests
+streamlit (pip install streamlit)
+feedparser (pip install feedparser)
+
+To run this app
+1st terminal: python app.py -> enter (then open)
+                                    
+2nd terminal: streamlit run streamlit_app.py -> enter
+
+search for any topics like:
+
+AI & Machine Learning
+    Transformer architecture in NLP
+    Federated learning in edge devices
+    Explainable AI in finance
+    Diffusion models for image generation
+    Reinforcement learning in robotics
+
+🧠 Deep Learning
+    Self-supervised learning techniques
+    Vision Transformers vs CNNs
+    Multi-modal learning systems
+    Adversarial attacks in deep learning
+
+🧬 Healthcare & AI
+    Deep learning in medical imaging
+    AI for disease prediction
+    Machine learning in genomics
+    Bias and fairness in healthcare AI
+
+🌱 Sustainability & Environment
+    AI in climate modeling
+    Machine learning for crop yield prediction
+    Smart irrigation using IoT and ML
+    Renewable energy forecasting using deep learning
+
+🔐 Cybersecurity
+    Anomaly detection in network traffic
+    ML in intrusion detection systems
+    Blockchain-based cybersecurity
+    Privacy-preserving machine learning
+
+🌐 Web & Social Media
+    Sentiment analysis on Twitter
+    Fake news detection with NLP
+    Graph neural networks for social networks
+    Community detection algorithms
+
+🏥 IoT & Smart Systems
+    IoT-based patient monitoring systems
+    Smart city planning with AI
+    Edge computing in smart homes
+    Energy-efficient smart grid systems
